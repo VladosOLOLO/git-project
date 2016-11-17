@@ -1,5 +1,4 @@
 <?php
 
 echo "hello world!"
-newnewnewnewnsadf
-something new
+echo "aloha everyone"
